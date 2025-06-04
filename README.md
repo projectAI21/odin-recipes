@@ -1,3 +1,3 @@
 # odin-recipes
 
-"This is my first commit"
+"Basic Recipe Website"
